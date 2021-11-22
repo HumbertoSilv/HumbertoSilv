@@ -3,7 +3,7 @@
 ## Hiii
 
 - 🔭 Currently looking for opportunities
-- 🌱 I’m currently learning Python, NoSQL and SQL
+- 🌱 I’m currently learning Python, Django.
 
 <div align="center">
   <a href="https://github.com/humbertosilv">
