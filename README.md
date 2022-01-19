@@ -3,7 +3,7 @@
 ## Hiii
 
 - 🔭 Currently looking for opportunities
-- 🌱 I’m currently learning Python, Django.
+- 🌱 I’m currently learning JavaScript, NodeJs.
 
 <div align="center">
   <a href="https://github.com/humbertosilv">
