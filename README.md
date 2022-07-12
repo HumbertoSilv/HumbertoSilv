@@ -2,7 +2,7 @@
 
 ### Hi there
 
-My name is Humberto Silva.
+My name is Humberto.
 
 Welcome to my GitHub page.
 <br>
