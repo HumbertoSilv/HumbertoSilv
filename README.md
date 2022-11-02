@@ -53,5 +53,5 @@ Welcome to my GitHub page.
 
 
 <a href="https://github.com/humbertosilv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertosilv&theme=gruvbox&hide_langs_below=1" alt="HUMBERTO SILVA github stats"/>
+  <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertosilv&theme=gruvbox&hide_langs_below=1" alt="HUMBERTO SILVA github stats"/>
 </a>
