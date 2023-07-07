@@ -7,7 +7,7 @@ My name is Humberto.
 Welcome to my GitHub page.
 <br>
 
-- 🌱 I’m currently learning TypeScript, NodeJs.
+- 🌱 I’m currently learning Python.
 
 ## **Languages and Tools:** 
 
