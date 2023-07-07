@@ -41,8 +41,6 @@ Welcome to my GitHub page.
 
 ## **GitHub Estatistics**
 
-![Humberto Silva' Activity Graph](https://activity-graph.herokuapp.com/graph?username=humbertosilv&custom_title=Humberto%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertosilv&theme=gruvbox&hide_langs_below=1" />
 <br>
